@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav img {
+    width: 80%;
+}
+
+.navColor {
+    background-color: rgba(27, 25, 25, 0.856);
+}
+
+body {
+    background-color: black;
+}
+
+
+/*Esto es la primera seccion*/
+
+.subtituloCompraEnLinea {
+    color: #c2adad;
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+.tituloImportante {
+    color: #306474;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+
+/*Esto es el final de la primera seccion*/
+
+
+/*Esto es Article */
+
+.subtituloImportante {
+    color: #306474;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+
+.subtitulos {
+    color: rgb(255, 255, 255);
+    font-size: 1.6rem;
+}
+
+.precios {
+    color: rgba(240, 162, 45, 0.856);
+    font-size: 1.4rem;
+}
+
+.parrafos {
+    color: #949292;
+    word-spacing: 0.1rem;
+    font-size: 1.3rem;
+}
+
+.imgS {
+    height: 600px;
+}
+
+.imgCarrusel {
+    height: 900px;
+}
+
+.linea {
+    text-decoration: none;
+    color: white;
+    font-size: 1.6rem;
+    border-radius: 10px;
+}
+
+.borderRadius {
+    border-radius: 10px;
+}
+
+
+/*Esto es el final de Article*/
+
+
+/* Inicia footer*/
+
+.listaFooter {
+    display: inline-block;
+    width: auto;
+    text-align: center;
+}
+
+.listaMenuBarra {
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.fa-whatsapp {
+    position: sticky;
+    font-size: 4rem;
+    bottom: 1rem;
+    float: right;
+    width: 8%;
+    background: none;
+    color: white;
+}
+
+.iconosCentrados {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.checkBox {
+    font-size: 5px;
+}
+
+.tamañoIconos {
+    font-size: 1.9rem;
+}
+
+
+/* Termina footer*/
